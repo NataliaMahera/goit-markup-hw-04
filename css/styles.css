@@ -314,6 +314,7 @@ url(../images/people-office.jpg);
 }
 .team-card-content-wrapper {
     padding: 32px 16px;
+    max-width: 264px;
 }
 /* ===============/TEAM================= */
 
