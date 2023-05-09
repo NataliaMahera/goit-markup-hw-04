@@ -221,8 +221,7 @@ background-position: center;
 background-size: cover;
 background-image:
 linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), 
-url(../images/people-office.jpg);
- 
+url(../images/people-office.jpg); 
 }
 
 .modal-service-btn {
@@ -341,6 +340,8 @@ margin-bottom: 8px;
 
 .social-icon {
     fill: var(--primary-text-color-theme-dark);
+    width: 16px;
+    height: 16px;
 }
 /* ===============/TEAM================= */
 
